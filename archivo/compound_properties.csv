@@ -1,0 +1,5 @@
+Element,Atomic Number,Group,Period,Block,Valence Electrons,Ionization Energy,Atomic Weight,Atomic Radius,Covalent Radius,Electron Affinity,Electronegativity,Electronegativity Diff,Ionic Character(%),Atomic Mass Ratio,Valence Electron Ratio
+Cu,29,11,4,d,1,7.72638,63.546,135.0,112.00000000000001,1.235,1.9,,,,
+Ga,31,13,4,p,3,5.999302,69.723,130.0,124.0,0.43,1.81,,,,
+S,16,16,3,p,6,10.36001,32.06,100.0,103.0,2.07710403,2.58,,,,
+Molecule,,,,,,,,,,,,0.77,13.776291023016608,2.1747660636306922,6.0
