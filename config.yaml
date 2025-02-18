@@ -2,7 +2,7 @@ paths:
   raw_data: "data/raw"
   processed_data: "data/processed"
   features_dir: "data/processed/features"
-  model_path: "models/hybrid_model.pkl"
+  model_path: "data/models/best_model.pkl"
 
 materials_project:
   api_key: !ENV ${API_KEY}  # Set in .env file
@@ -138,7 +138,3 @@ formulas:
  - "BeGaSe2"
  - "BeGaTe2"
  - "BeGaSb2"
-   
- 
- 
-  
