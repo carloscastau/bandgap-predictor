@@ -1,0 +1,15 @@
+materials_project:
+  batch_size: 5
+  request_delay: 10
+
+required_features:
+  - atomic_radius
+  - en_pauling  
+  - ionization_energy
+  - molar_volume
+  - valence
+
+sisso_parameters:
+  operators: ["+", "-", "*", "/", "sqrt", "log"]
+  dim: 5
+  n_sis: 100

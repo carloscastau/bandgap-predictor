@@ -42,21 +42,6 @@ yaml
 
 ✅ Success rate: 85.7%
 Structures saved to: data/processed/structures
-🐳 Using Docker
-Build the Docker image
-
-docker build -t materials-fetcher .
-Run the container
-
-docker run --env-file .env materials-fetcher
-⚙ Configuration (config.yaml)
-Modify config.yaml to adjust settings:
-yaml
-paths:
-  raw_data: "data/raw"
-  processed_data: "data/processed"
-  features_dir: "data/processed/features"
-  model_path: "models/hybrid_model.pkl"
 
 materials_project:
   api_key: !ENV ${API_KEY}  # API key loaded from .env
